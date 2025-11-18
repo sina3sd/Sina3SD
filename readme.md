@@ -28,7 +28,7 @@ Passionate about automation, system reliability, and building clean architecture
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sina-gholizadeh-612054346)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sina3SD)
-
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZRArXYX0MDSg89xMP2vcpw)]
 ---
 
 ## 💻 Tech Stack
@@ -57,6 +57,9 @@ Passionate about automation, system reliability, and building clean architecture
 <img src="https://github-contributor-stats.vercel.app/api?username=Sina3sd&limit=6&theme=tokyonight" />
 
 ---
+<!--
 
 ## ✍️ Random Dev Joke
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+-->
+
