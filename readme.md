@@ -54,12 +54,12 @@ Passionate about automation, system reliability, and building clean architecture
 <img src="https://github-profile-trophy.vercel.app/?username=Sina3sd&theme=dracula&no-frame=true&margin-w=15&row=1" />
 
 ---
-
+<!--
 ## ✨ Top Contributed Repositories
 <img src="https://github-contributor-stats.vercel.app/api?username=Sina3sd&limit=6&theme=tokyonight" />
 
 ---
-<!--
+
 
 ## ✍️ Random Dev Joke
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
